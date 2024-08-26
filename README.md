@@ -26,7 +26,7 @@ Requirements:
 - It should be possible to convert a word to the encrypted version and also return an encrypted word to the original version.
 
 For instance:
-"cat" => "gaitober"
+"cat" => "caitober"
 gaitober" => "cat"
 
 The page must have fields for entering the text to be encrypted or decrypted, and the user must be able to choose between the two options.

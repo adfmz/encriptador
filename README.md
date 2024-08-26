@@ -1,4 +1,4 @@
-## Hi folks, <img src= "Img/Avatar Dria.jpeg" width="100" height= "100" alt = "Dria`s avatar"> 
+## Hi folks, <img src= "Img/Avatar Dria.jpeg" width="60" height= "68" alt = "Dria`s avatar" border-radius= 24px> 
 I ve developed this "Encryption" when I had the real experience with matrix logic, using a lot about my algorithms understanding.
 hope you enjoy it.
 ##

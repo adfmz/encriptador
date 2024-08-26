@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Encriptador</title>
+
+</head>
+<body>
+    <main class="l-main"> 
+        <section class="l-sectionI">
+            <div class="div-sectionI">
+            <header class="cabecalho">
+                <img class="logoAlura" src="./Img/logo_alura.png" alt="logo_alura">
+            </header>
+            
+                    
+            
+            <div class="div-sectionI-content">   
+                <textarea class="text-area" cols="41" rows="4" placeholder="Digite seu texto"></textarea>          
+                <div class="informacao" >
+                    <img class="informacao__ponto" src="./Img/botao de exclamação.png" width="16px" height="16px"alt="bota de exclamacao">
+                    <h6 >Apenas letras minúsculas e sem acento.</h6>
+                </div>               
+                <div class="botoes">
+                    <button class="btn-encriptar" onclick="btnEncriptar()">Criptografar</button>
+                    <button class="btn-descriptografar" onclick="btnDesencriptar()">Descriptografar</button>   
+                
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="l-sectionII">
+            <div class="l-div-sectionII">
+                
+                <div class="e-div-button">              
+                    <textarea class="mensagem" cols="30" rows="25" placeholder="Digite seu texto"></textarea>             
+                    <h2 class="e-div-button-message">Nenhuma mensagem<br> encontrada</h2></br>
+                    <p class="e-div-button-paraghraf">Digite um texto que você deseja criptografar ou descriptografar.</p>        
+                    <button class="btn-copiar" onclick="btnCopiar()" >Copiar</button>
+                </div>
+            </div>
+    </section>
+</div>
+</main>
+<script src="app.js"></script>
+   
+    
+</body>
+</html>

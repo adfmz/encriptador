@@ -1,4 +1,4 @@
-## Hi folks, <img src= " https://github.com/user-attachments/assets/6cfc9ff1-e2d3-4e14-b922-ef63e246c3f8" width="100" height= "100" alt = "Dria`s avatar"> 
+## Hi folks, <img src= "Img/Avatar Dria.jpeg" width="100" height= "100" alt = "Dria`s avatar"> 
 I ve developed this "Encryption" when I had the real experience with matrix logic, using a lot about my algorithms understanding.
 hope you enjoy it.
 ##

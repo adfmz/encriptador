@@ -1,11 +1,15 @@
 ## Hi folks, <img src= "Img/Avatar Dria.jpeg" width="60" height= "68" alt = "Dria`s avatar" border-radius= 24px> 
-I ve developed this "Encryption" when I had the real experience with matrix logic, using a lot about my algorithms understanding.
+I´ve developed this "Encryption program" when I had the real experience with matrix logic, using a lot about my algorithms understanding.
 hope you enjoy it.
-##
+
+
 ## What can you expect :
+
+
 I´m going to work on an application that encrypts texts, so you can exchange secret messages with other people who knows the secret of the encryption used.
 
-The encryption "keys" we will use are:
+The encryption "keys" I will use are:
+
 The letter "e" is converted to "enter"
 
 The letter "i" is converted to "imes"

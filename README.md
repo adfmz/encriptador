@@ -27,7 +27,7 @@ Requirements:
 
 For instance:
 "cat" => "caitober"
-gaitober" => "cat"
+caitober" => "cat"
 
 The page must have fields for entering the text to be encrypted or decrypted, and the user must be able to choose between the two options.
 The result should be displayed on the screen.
